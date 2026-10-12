@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
